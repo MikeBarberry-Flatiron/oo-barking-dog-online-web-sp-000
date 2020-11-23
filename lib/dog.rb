@@ -9,7 +9,7 @@ class Dog
   end
 
   def bark
-    puts "woof!"
+    puts "We like to party!"
   end
 end
 
